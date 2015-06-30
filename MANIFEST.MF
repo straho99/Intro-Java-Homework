@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_20 (Oracle Corporation)
+Main-Class: GenerateCardsPDF
+Class-Path: lib/itextpdf-5.5.2.jar
+
